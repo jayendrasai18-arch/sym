@@ -1,0 +1,66 @@
+span.a {
+    width: 30px;
+    height: 14px;
+    gap: 10px;
+    background-color: #FF7510;
+}
+
+.x{
+    width: 172px;
+    height: 23px;
+    font-family: VAG Rounded for BEC;
+    font-weight: 600;
+    font-style: SmBd;
+    font-size: 15px;
+    line-height: 23px;
+    letter-spacing: 5%;
+    text-transform: uppercase;
+    color: #23408F;
+}
+
+h1{
+    width: 984;
+    height: 43;
+    opacity: 1;
+    font-family: VAG Rounded for BEC;
+    font-weight: 600;
+    font-style: SmBd;
+    font-size: 36px;
+    line-height: 40px;
+    letter-spacing: 0%;
+    color: #23408F;
+}
+
+.sub1{
+    width: 280;
+    height: 51;
+    opacity: 1;
+    font-family: VAG Rounded for BEC;
+    font-weight: 600;
+    font-style: SmBd;
+    font-size: 22px;
+    line-height: 23px;
+    letter-spacing: 0%;
+    color:#000000;
+}
+
+.cap{
+    font-family: VAG Rounded for BEC;
+    font-weight: 500;
+    font-style: Md Italic;
+    font-size: 18px;
+    line-height: 23px;
+    letter-spacing: 0%;
+
+}
+span.c{
+    width: 141;
+    height: 182;
+    opacity: 1;
+    background-color: #ECECEC;
+
+}
+
+
+
+          
